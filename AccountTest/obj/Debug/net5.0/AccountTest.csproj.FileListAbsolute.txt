@@ -1,0 +1,16 @@
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.csproj.AssemblyReference.cache
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.AssemblyInfoInputs.cache
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.AssemblyInfo.cs
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.exe
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.deps.json
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.runtimeconfig.json
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.runtimeconfig.dev.json
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.dll
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\ref\AccountTest.dll
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\bin\Debug\net5.0\AccountTest.pdb
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.dll
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\ref\AccountTest.dll
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.pdb
+C:\Users\4400112799\source\repos\AccountTest\AccountTest\obj\Debug\net5.0\AccountTest.genruntimeconfig.cache
