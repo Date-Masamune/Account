@@ -6,19 +6,14 @@ namespace Bank
    {
       static void Main(string[] args)
       {
-         //create an Account object and assign it to myAccount
-         Account myAccount = new Account();
+         //create two Account objects
+         Account account1 = new Account("Jane Green");
+         Account account2 = new Account("John Blue");
 
-         //display myAccount's intial name (there isn't one yet)
-         Console.WriteLine($"Initial name is: {myAccount.Name}");
+         //display intial value of name or each Account
+         Console.WriteLine($"account1 name is: {account1.Name}");
+         Console.WriteLine($"account2 name is {account2.Name}");
 
-         //prompt for and read the name. then put the name in the object
-         Console.Write("Enter the name:"); //prompt
-         string theName = Console.ReadLine(); //read the name
-         myAccount.Name = theName; // put theName in the myAccount object
-
-         // display the name stored in the myAccount object
-         Console.WriteLine($"myAccount's name is:{myAccount.Name}");
       }
    }
 }

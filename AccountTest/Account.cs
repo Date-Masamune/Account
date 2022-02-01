@@ -8,20 +8,15 @@ namespace Bank
 {
    class Account
    {
-      private string name; // instance variable
+      public string Name { get; set; } // auto-implemented property
 
-      //property to get and set the name instance variable
-      public string Name
+      //contructor sets the name property to parameter accountName's value
+      public Account(string accountName) //constructor name is class name
       {
-         get //returns the corresponding instance variables value
-         {
-            return name; //returns the value of name to the client code
-         }
-         set //assigns a new value to the corresponding instance variable 
-         {
-            name = value; //value is implicitly declared and initialized 
-         }
-
+         Name = accountName;
       }
+     
+
+      
    }
 }
