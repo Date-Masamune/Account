@@ -1,10 +1,16 @@
-﻿using System;
+﻿using AccountTest;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 
 namespace Bank
 {
    class AccountTest
    {
-      static void Main(string[] args)
+      static void Main()
       {
          //create two Account objects
          Account account1 = new Account("Jane Green", 50.00m);

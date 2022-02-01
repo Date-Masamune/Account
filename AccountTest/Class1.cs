@@ -9,7 +9,7 @@ namespace AccountTest
    class Account
    {
       public string Name { get; set; } //auto-implemented property
-      private decimal Balance; //instance variable
+      private decimal balance; //instance variable
 
       // Account constructor that receives two parameters
       public Account(string accountName, decimal initialBalance)
@@ -23,7 +23,7 @@ namespace AccountTest
       {
          get
          {
-            return Balance;
+            return balance;
          }
          private set //can be used only within the class
          {
@@ -31,7 +31,7 @@ namespace AccountTest
              //instance variable balance keeps it's prior value 
             if (value > 0.0m) // m indicates that 0.0 is a decimal literal
             {
-               Balance = value;
+               balance = value;
             } 
          
          }
